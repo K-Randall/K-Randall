@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, I'm Kayla (they/them) 👋
 
 <!--
 **K-Randall/K-Randall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on designing a website to sell my art!
+- 🌱 I’m currently honing my skills in NodeJS
+- 📫 How to reach me: please email me at randallk807@gmail.com
+- 😄 Pronouns: they/them
+- ⚡ Fun fact: I’m an avid crocheter and crafter!
